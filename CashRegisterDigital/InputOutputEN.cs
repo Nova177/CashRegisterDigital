@@ -19,7 +19,7 @@
         /// <returns>inputSum</returns>
         public double ProductsInput()
         {
-
+            //
             string input = Console.ReadLine();
             double euro;
 
